@@ -50,6 +50,7 @@ class AppTestCase(unittest.TestCase):
         """ Test that we can authenticate as a user """
         self.assertTrue(1)
 
+#my comment
 
 if __name__ == '__main__':
     unittest.main()
